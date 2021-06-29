@@ -1,0 +1,5 @@
+distance;isLarge;isFragile;loadType
+31;true;true;EXTREME
+31;true;true;HIGH
+400;false;true;NORMAL
+400;false;true;VERY_HIGH
